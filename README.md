@@ -9,4 +9,4 @@ typora 学习
 
 ![image-20240610113517914](https://raw.githubusercontent.com/yuezu1026/typora_pic/main/images/yys.png)
 
-使用typora结合picGo，可以实现，在typora黏贴图片后，图片立刻上穿到github上，实现即时文章的发布分享。
+使用typora结合picGo可以实现在typora黏贴图片后，图片立刻上穿到github上实现即时文章的发布分享。
